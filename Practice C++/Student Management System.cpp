@@ -163,7 +163,8 @@ struct Student{
 	 }
 	 
 	 else{
-	 		int index;
+		tblStudent();
+	 	int index;
  		cout<<"....Delete....\n";
  		cout<<"Select the student you want to delete:";
  		cin>>index;
